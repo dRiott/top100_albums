@@ -81,7 +81,7 @@
 | 78     | deadmau5                  | For Lack of a Better Name             | 2009 | https://albumoftheyear.org/album/2343-deadmau5-for-lack-of-a-better-name.php |   |   |
 | 79     | Charli XCX                | Charli                                | 2019 | https://albumoftheyear.org/album/159499-charli-xcx-charli.php |   |   |
 | 80     | Lianne La Havas           | Lianne La Havas                       | 2020 | https://albumoftheyear.org/album/238662-lianne-la-havas-lianne-la-havas.php |   |   |
-| 81     | The Strokes               | Is This It                            | 2001 | https://albumoftheyear.org/album/605-marnie-stern-this-is-it-and-i-am-it-and-you-are-it-and-so-is-that-and-he-is-it-and-she-is-it-and-it-is-it-and-that-is-that.php |   |   |
+| 81     | The Strokes               | Is This It                            | 2001 | https://www.albumoftheyear.org/album/576-the-strokes-is-this-it.php |   |   |
 | 82     | Pretty Lights             | Filling Up The City Skies             | 2008 | https://albumoftheyear.org/album/324528-pretty-lights-filling-up-the-city-skies.php |   |   |
 | 83     | Charles Mingus            | Mingus Ah Um                          | 1959 | https://albumoftheyear.org/album/6655-charles-mingus-mingus-ah-um.php |   |   |
 | 84     | Maps & Atlases            | You And Me And The Mountain           | 2008 | https://albumoftheyear.org/album/110498-maps-atlases-you-and-me-and-the-mountain.php |   |   |
