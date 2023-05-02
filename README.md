@@ -12,7 +12,7 @@
 | 9      | Aphex Twin                | Selected Ambient Works 85-92          | 1992 | https://albumoftheyear.org/album/4347-aphex-twin-selected-ambient-works-85-92.php |   |   |
 | 10     | Radiohead                 | In Rainbows                           | 2007 | https://albumoftheyear.org/album/363-radiohead-in-rainbows.php |   |   |
 | 11     | Modest Mouse              | The Lonesome Crowded West             | 1997 | https://albumoftheyear.org/album/4041-modest-mouse-the-lonesome-crowded-west.php |   |   |
-| 12     | Shakey Graves             | Roll the Bones                        | 2011 | https://albumoftheyear.org/album/15864-rush-roll-the-bones.php |   |   |
+| 12     | Shakey Graves             | Roll the Bones                        | 2011 | https://www.albumoftheyear.org/album/107219-shakey-graves-roll-the-bones.php |   |   |
 | 13     | Kendrick Lamar            | good kid, m.A.A.d city                | 2012 | https://albumoftheyear.org/album/3840-kendrick-lamar-good-kid-maad-city.php |   |   |
 | 14     | The Beatles               | Abbey Road                            | 1969 | https://albumoftheyear.org/album/4091-the-beatles-abbey-road.php |   |   |
 | 15     | Surprise Chef             | All News Is Good News                 | 2020 | https://albumoftheyear.org/album/190542-surprise-chef-all-news-is-good-news.php |   |   |
@@ -21,8 +21,8 @@
 | 18     | Moby                      | Play & Play: B Sides                  | 2008 | https://albumoftheyear.org/album/2518-moby-play.php |   |   |
 | 19     | SZA                       | CTRL                                  | 2017 | https://albumoftheyear.org/album/70504-sza-ctrl.php |   |   |
 | 20     | Nick Drake                | Pink Moon                             | 1972 | https://albumoftheyear.org/album/4204-pink-floyd-the-dark-side-of-the-moon.php |   |   |
-| 21     | Against All Logic         | 2012-2017                             | 2018 | https://albumoftheyear.org/album/102788-against-all-logic-2012-2017.php |   |   |
-| 22     | Anderson PAAK             | Malibou                               | 2016 | https://albumoftheyear.org/album/47911-anderson-paak-malibu.php |   |   |
+| 21     | Against All Logic         | 2012-2017                             | 2018 | https://albumoftheyear.org/album/102788-against-all-logic-2012-2017.php        |   |   |
+| 22     | Anderson .Paak            | Malibu                                | 2016 | https://albumoftheyear.org/album/47911-anderson-paak-malibu.php                |   |   |
 | 23     | Elliott Smith             | Either/Or                             | 1997 | https://albumoftheyear.org/album/4042-elliott-smith-eitheror.php |   |   |
 | 24     | Pink Floyd                | Dark Side of the Moon                 | 1973 | https://albumoftheyear.org/album/4204-pink-floyd-the-dark-side-of-the-moon.php |   |   |
 | 25     | Pinback                   | Summer in Abaddon                     | 2004 | https://albumoftheyear.org/album/15426-pinback-summer-in-abaddon.php |   |   |
