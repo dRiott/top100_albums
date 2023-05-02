@@ -75,7 +75,7 @@
 | 72     | Dosh                      | The Lost Take                         | 2006 | https://albumoftheyear.org/album/11720-dosh-the-lost-take.php |   |   |
 | 73     | Deca                      | The Ocean                             | 2013 | https://albumoftheyear.org/album/262643-the-light-in-the-ocean-the-light-in-the-ocean.php |   |   |
 | 74     | The Clientele             | God Save the Clientele                | 2007 | https://albumoftheyear.org/album/27172-the-clientele-god-save-the-clientele.php |   |   |
-| 75     | Death Cab For Cutie       | The Photo Album                       | 2001 | https://albumoftheyear.org/album/230106-thanks-for-coming-almost-named-this-album-untouched-in-reference-to-not-editing-the-cover-photo-and-also-having-an-unrequited-crush-on-a-stranger-but-then-i-remembered-were-all-social-isolating-right-now-and-its-a-little-too-on-the-nose-even-for-me.php |   |   |
+| 75     | Death Cab For Cutie       | The Photo Album                       | 2001 | https://www.albumoftheyear.org/album/1365-death-cab-for-cutie-the-photo-album.php |   |   |
 | 76     | Medeski, Martin & Wood    | End of the World Party (Just In Case) | 2004 | https://albumoftheyear.org/album/25344-medeski-martin-wood-end-of-the-world-party-just-in-case.php |   |   |
 | 77     | Dr Dre                    | The Chronic                           | 1992 | https://albumoftheyear.org/album/4601-dr-dre-the-chronic.php |   |   |
 | 78     | deadmau5                  | For Lack of a Better Name             | 2009 | https://albumoftheyear.org/album/2343-deadmau5-for-lack-of-a-better-name.php |   |   |
