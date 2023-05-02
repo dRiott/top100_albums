@@ -1,6 +1,6 @@
 # My Top 100 Albums of All Time
-| Number      | Artist                    | Album                                 | Year | Link |   |   |
-| ----------- | -----------               | -----                                 | ---- | ---- |   |   |
+| Number | Artist | Album | Year | Link |
+| --- | --- | --- | --- | --- |
 | 1           | Kendrick Lamar            | To Pimp A Butterfly                   | 2015 |      |   |   |
 | 2           | Frank Ocean               | Blonde                                | 2016 |      |   |   |
 | 3           | Gorillaz                  | Gorillaz                              | 2001 |      |   |   |
